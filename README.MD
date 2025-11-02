@@ -1,3 +1,15 @@
+### How To Run:
+
+```git clone https://github.com/AlanWang13/BlueStaqBackend.git```
+
+
+**Java Version Used:** 17.0.15
+
+**Client**: ```java -jar Client.jar```
+
+**Server**: ```java -jar Server.jar```
+
+
 ### Assumptions
 **Client Initial Position:**
 - When a client connects, they are assumed to already be on the elevator
@@ -29,11 +41,3 @@
 - They all are assumed to be already on the elevator.
 **Edge Cases**:
 - No priority requests
-
-### How To Run:
-
-**Java Version Used:** 17.0.15
-
-**Client**: ```java -jar Client.jar```
-
-**Server**: ```java -jar Server.jar```
